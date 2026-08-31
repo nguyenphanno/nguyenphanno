@@ -52,20 +52,3 @@
   src="https://shieldcn.dev/chart/github/commits/nguyenphanno.svg?logo=false"
   alt="GitHub commit activity"
 />
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-  ୨୧ ───────────── ୨୧
-</p>
-
-<p align="center">
-  <i>Thanks for visiting my profile ♡</i>
-  <br>
-  <sub>₊˚⊹ Keep building · keep learning ⊹˚₊</sub>
-</p>
