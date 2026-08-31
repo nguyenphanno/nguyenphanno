@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,powershell,nextjs,react,tailwind,mongodb&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,nodejs,powershell,nextjs,react,tailwind,mongodb&theme=light" />
 
 </div>
 
