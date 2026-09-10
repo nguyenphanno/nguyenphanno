@@ -9,6 +9,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://count.getloli.com/@nguyenphanno?name=nguyenphanno&theme=booru-qualityhentais&padding=1&offset=0&align=center&scale=1&pixelated=0&darkmode=auto" alt="Profile views" />
+</p>
+
 <br>
 
 <div align="center">
