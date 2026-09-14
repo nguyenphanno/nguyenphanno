@@ -59,7 +59,3 @@
 src="https://shieldcn.dev/chart/github/commits/nguyenphanno.svg?logo=false"
 alt="GitHub commit activity"
 />
-
-<br><br>
-
-</tr>
