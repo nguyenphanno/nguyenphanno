@@ -7,6 +7,9 @@
   <a href="https://discord.com/users/1469216989158309928">
     <img src="https://img.shields.io/badge/Discord-Presence-ffffff?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=ffffff" />
   </a>
+  <a href="https://open.spotify.com/album/4Q2pnDJ80mrXSWvlTYTov3">
+    <img src="https://img.shields.io/badge/Spotify-Listening-ffffff?style=for-the-badge&logo=spotify&logoColor=1DB954&labelColor=ffffff" />
+  </a>
 </p>
 
 <p align="center">
@@ -53,6 +56,10 @@
 <br>
 
 <img
-  src="https://shieldcn.dev/chart/github/commits/nguyenphanno.svg?logo=false"
-  alt="GitHub commit activity"
+src="https://shieldcn.dev/chart/github/commits/nguyenphanno.svg?logo=false"
+alt="GitHub commit activity"
 />
+
+<br><br>
+
+</tr>
